@@ -1,6 +1,8 @@
 # Catalog-Names-By-First-Letter
 I saw on linked in someone say this...
 
+-----------------------------
+
 "Social distancing/isolating by alphabet. 
 
 People with last names that start on
@@ -14,8 +16,10 @@ YZ: Try to shop on Sundays
 
 This would further isolate populations without generating undue hardships."
 
+-----------------------------
 
-Then I thought, what if that's lobsided and creates immense chaos?  Having 40 percent of the people going on one day perhaps?  And 5 percent of the people could go on another?
+
+Then I thought, would it really "further isolate populations without generating undue hardships"?  What if the data was lobsided and it created IMMENSE chaos and DECREASED social distancing during times of pandemic?  Having 40 percent of the people going on one day perhaps?  And 5 percent of the people could go on another?  Wouldn't you want 1/7 of the people go on each day?
 
 So I thought I could code a solution to see how lobsided it could be... as well as giving a solution to divide them through the week equally.
 
