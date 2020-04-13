@@ -1,4 +1,8 @@
 # Catalog-Names-By-First-Letter
+(IF YOU WANT TO IMMEDIATLEY TEST THE CODE, COPY PASTE THE CODE INTO A CODE ACADEMY'S JAVASCRIPT LESSON COMPILER)
+
+
+
 I saw on linked in someone say this...
 
 -----------------------------
