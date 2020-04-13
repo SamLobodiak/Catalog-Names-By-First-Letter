@@ -3,7 +3,7 @@
 
 
 
-I saw on linked in someone say this...
+I saw on linked in someone say this... (Image attached above)
 
 -----------------------------
 
