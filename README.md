@@ -3,7 +3,7 @@
 
 
 
-I saw on linked in someone say this... (Image attached above)
+I saw on linkedIn someone say this... (Image attached above)... And I was bored one day and decided to code it.
 
 -----------------------------
 
@@ -33,8 +33,24 @@ I found some raw data that was a list of names from https://gist.github.com/ruan
 
 So, thank you ruanbekker!
 
+
 Quantify and organize list of names into an object based off the first letter in their name.
 
 1.  This is to see how many people's names start with a certain letter.
 
 2.  If you needed to divide these people to do something through the week this would be how it's done equally.
+
+
+CONCLUSION:  If we went by the logic of the then...
+
+29.9% of people would go to the store on Monday
+11.1% - Tuesday
+21.48% - Wednesday
+13.7% - Thursday
+17.9% - Friday
+2.5% - Saturday
+3.1% - Sunday
+
+Since that is lobsided, I created an algorithm that logs evenly who should go each day of the week.  To maximize social distancing in a pandemic.
+
+
