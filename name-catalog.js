@@ -5,6 +5,8 @@ var names = ["Aaran", "Aaren", "Aarez", "Aarman", "Aaron", "Aaron-James", "Aarro
 
 var alphabet = "abcdefghijklmnopqrstuvwxyz"
 
+
+//Divide this list out by this number. (If spreading these people out by 7 days of the week make this 7)
 var divided_range = 1;
 
 //console.log(names.length)
