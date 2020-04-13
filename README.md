@@ -53,4 +53,12 @@ CONCLUSION:  If we went by the logic of the then...
 
 Since that is lobsided, I created an algorithm that logs evenly who should go each day of the week.  To maximize social distancing in a pandemic.
 
+14.28% of people would go to the store on Monday
+14.28% - Tuesday
+14.28% - Wednesday
+14.28% - Thursday
+14.28% - Friday
+14.28% - Saturday
+14.28% - Sunday
+
 
