@@ -27,15 +27,11 @@ for (var i = 0; i <= days_array.length - 1; i++) {
 
 
 var alphabet = "abcdefghijklmnopqrstuvwxyz"
-
-var divided_range = 7;
-
 //console.log(names.length)
 
 //console.log(people_per_day)
 
 function catalogNamesByDay(){
-  var people_per_day = Math.floor((names.length - 1) / divided_range);
 
   var span_start = 0
   var span_end = people_per_day;
@@ -44,7 +40,7 @@ function catalogNamesByDay(){
   names_span = names.slice(span_start, span_end)
 
     //console.log(names.slice(span_start, span_end))  
-  for (var i = 0; i <= divided_range - 1; i++) {
+  for (var i = 0; i <= days_array.length - 1; i++) {
     var letteramount = {
     'a': 0,
     'b': 0,
@@ -75,10 +71,9 @@ function catalogNamesByDay(){
 
   }
     this.names_span = names.slice(span_start, span_end)
-    console.log("Giant name list length:  ", names.length)
-    console.log("names span length:  ", this.names_span.length)
-    console.log("span_start:  ", span_start)
-    console.log("span_end:  ", span_end)
+    //console.log("names span length:  ", this.names_span.length)
+    //console.log("span_start:  ", span_start)
+    //console.log("span_end:  ", span_end)
     //console.log("names span is:  ", this.names_span)
 
     span_start = span_end
@@ -92,7 +87,8 @@ function catalogNamesByDay(){
           }
       }
     }
-    console.log("Letter amount: ", letteramount)
+    console.log(days_array[i] + " quantity of names by first letter: ", letteramount)
+    console.log("---END NAMES FOR " + days_array[i])
   }
 }
 
@@ -140,7 +136,7 @@ function catalogNames() {
           }
     }
   }
-  return console.log("All names catalogged: ", letteramount)
+  return console.log("ALL names catalogged by first letter: ", letteramount)
 }
 
 
