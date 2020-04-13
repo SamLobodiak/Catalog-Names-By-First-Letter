@@ -43,13 +43,13 @@ Quantify and organize list of names into an object based off the first letter in
 
 CONCLUSION:  If we went by the logic of the then...
 
-29.9% of people would go to the store on Monday
-11.1% - Tuesday
-21.48% - Wednesday
-13.7% - Thursday
-17.9% - Friday
-2.5% - Saturday
-3.1% - Sunday
+30% of people would go to the store on Monday
+11% - Tuesday
+21% - Wednesday
+14% - Thursday
+18% - Friday
+3% - Saturday
+3% - Sunday
 
 Since that is lobsided, I created an algorithm that logs evenly who should go each day of the week.  To maximize social distancing in a pandemic.
 
