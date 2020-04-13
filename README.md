@@ -1,4 +1,4 @@
-# Catalog-Names-By-First-Letter (COPY PASTE THE CODE INTO CODE ACADEMY'S COMPILER IF YOU WANT TO IMMEDIATELY TEST)
+# Catalog-Names-By-First-Letter
 I saw on linked in someone say this...
 
 -----------------------------
