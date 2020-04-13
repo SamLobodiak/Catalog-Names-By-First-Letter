@@ -27,6 +27,8 @@ So I thought I could code a solution to see how lobsided it could be... as well 
 
 I found some raw data that was a list of names from https://gist.github.com/ruanbekker/a1506f06aa1df06c5a9501cb393626ea
 
+So, thank you ruanbekker!
+
 Quantify and organize list of names into an object based off the first letter in their name.
 
 1.  This is to see how many people's names start with a certain letter.
